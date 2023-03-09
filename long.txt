@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la long xin chao toi ten khoa
+=======
+day la long xin chao toi ten long
+>>>>>>> e8cd66cff160ed80e267506d288c2f3f5abd7123
