@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tôi sẽ rớt môn này
+=======
+Tôi sẽ qua môn này
+>>>>>>> alpha
