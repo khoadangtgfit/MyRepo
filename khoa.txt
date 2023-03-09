@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hôm nay là một ngày đẹp trời
 Khoa Dang rat dep trai nhung hoc gioi
+=======
+toi la khoa toi hoc ngu
+toi hoc gioi
+>>>>>>> alpha
